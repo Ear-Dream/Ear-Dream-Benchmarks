@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+
+# Large, reproducible training/export artifacts are kept out of Git.
+runs/**/*.pt
+runs/**/*.npy

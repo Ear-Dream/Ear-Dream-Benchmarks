@@ -1,0 +1,18 @@
+{
+  "samples": 134951,
+  "valid": 134951,
+  "errors": 0,
+  "length": {
+    "min": 56,
+    "median": 124.0,
+    "p90": 160.0,
+    "p95": 172.0,
+    "p99": 200.0,
+    "max": 268
+  },
+  "missing_classes_by_split": {
+    "train": [],
+    "val": [],
+    "test": []
+  }
+}

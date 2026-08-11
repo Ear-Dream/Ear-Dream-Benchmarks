@@ -1,0 +1,30 @@
+{
+  "format": "TorchScript",
+  "artifact": "model_torchscript.pt",
+  "checks": [
+    {
+      "length": 64,
+      "max_abs_logit_difference": 0.0,
+      "top1_match": true,
+      "top5_match": true
+    },
+    {
+      "length": 128,
+      "max_abs_logit_difference": 0.0,
+      "top1_match": true,
+      "top5_match": true
+    },
+    {
+      "length": 187,
+      "max_abs_logit_difference": 0.0,
+      "top1_match": true,
+      "top5_match": true
+    },
+    {
+      "length": 250,
+      "max_abs_logit_difference": 0.0,
+      "top1_match": true,
+      "top5_match": true
+    }
+  ]
+}

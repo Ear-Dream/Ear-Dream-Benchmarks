@@ -1,0 +1,247 @@
+[
+  {
+    "word_id": 2,
+    "actor_id": "07",
+    "camera_id": "R"
+  },
+  {
+    "word_id": 432,
+    "actor_id": "04",
+    "camera_id": "U"
+  },
+  {
+    "word_id": 478,
+    "actor_id": "04",
+    "camera_id": "D"
+  },
+  {
+    "word_id": 514,
+    "actor_id": "04",
+    "camera_id": "F"
+  },
+  {
+    "word_id": 588,
+    "actor_id": "04",
+    "camera_id": "R"
+  },
+  {
+    "word_id": 852,
+    "actor_id": "01",
+    "camera_id": "F"
+  },
+  {
+    "word_id": 877,
+    "actor_id": "06",
+    "camera_id": "D"
+  },
+  {
+    "word_id": 971,
+    "actor_id": "01",
+    "camera_id": "D"
+  },
+  {
+    "word_id": 1065,
+    "actor_id": "07",
+    "camera_id": "F"
+  },
+  {
+    "word_id": 1109,
+    "actor_id": "04",
+    "camera_id": "F"
+  },
+  {
+    "word_id": 1120,
+    "actor_id": "07",
+    "camera_id": "L"
+  },
+  {
+    "word_id": 1128,
+    "actor_id": "04",
+    "camera_id": "L"
+  },
+  {
+    "word_id": 1130,
+    "actor_id": "04",
+    "camera_id": "D"
+  },
+  {
+    "word_id": 1140,
+    "actor_id": "04",
+    "camera_id": "R"
+  },
+  {
+    "word_id": 1180,
+    "actor_id": "03",
+    "camera_id": "U"
+  },
+  {
+    "word_id": 1193,
+    "actor_id": "03",
+    "camera_id": "L"
+  },
+  {
+    "word_id": 1491,
+    "actor_id": "07",
+    "camera_id": "U"
+  },
+  {
+    "word_id": 1536,
+    "actor_id": "06",
+    "camera_id": "F"
+  },
+  {
+    "word_id": 1603,
+    "actor_id": "07",
+    "camera_id": "D"
+  },
+  {
+    "word_id": 1604,
+    "actor_id": "07",
+    "camera_id": "L"
+  },
+  {
+    "word_id": 1640,
+    "actor_id": "05",
+    "camera_id": "F"
+  },
+  {
+    "word_id": 1659,
+    "actor_id": "05",
+    "camera_id": "L"
+  },
+  {
+    "word_id": 1669,
+    "actor_id": "05",
+    "camera_id": "R"
+  },
+  {
+    "word_id": 1699,
+    "actor_id": "05",
+    "camera_id": "D"
+  },
+  {
+    "word_id": 1701,
+    "actor_id": "07",
+    "camera_id": "U"
+  },
+  {
+    "word_id": 1704,
+    "actor_id": "06",
+    "camera_id": "D"
+  },
+  {
+    "word_id": 1739,
+    "actor_id": "05",
+    "camera_id": "U"
+  },
+  {
+    "word_id": 1742,
+    "actor_id": "06",
+    "camera_id": "L"
+  },
+  {
+    "word_id": 1792,
+    "actor_id": "06",
+    "camera_id": "R"
+  },
+  {
+    "word_id": 1974,
+    "actor_id": "04",
+    "camera_id": "D"
+  },
+  {
+    "word_id": 2041,
+    "actor_id": "04",
+    "camera_id": "R"
+  },
+  {
+    "word_id": 2063,
+    "actor_id": "04",
+    "camera_id": "L"
+  },
+  {
+    "word_id": 2065,
+    "actor_id": "04",
+    "camera_id": "U"
+  },
+  {
+    "word_id": 2092,
+    "actor_id": "04",
+    "camera_id": "F"
+  },
+  {
+    "word_id": 2186,
+    "actor_id": "06",
+    "camera_id": "F"
+  },
+  {
+    "word_id": 2196,
+    "actor_id": "06",
+    "camera_id": "D"
+  },
+  {
+    "word_id": 2289,
+    "actor_id": "03",
+    "camera_id": "F"
+  },
+  {
+    "word_id": 2342,
+    "actor_id": "06",
+    "camera_id": "U"
+  },
+  {
+    "word_id": 2343,
+    "actor_id": "06",
+    "camera_id": "R"
+  },
+  {
+    "word_id": 2410,
+    "actor_id": "03",
+    "camera_id": "D"
+  },
+  {
+    "word_id": 2411,
+    "actor_id": "03",
+    "camera_id": "L"
+  },
+  {
+    "word_id": 2635,
+    "actor_id": "05",
+    "camera_id": "F"
+  },
+  {
+    "word_id": 2728,
+    "actor_id": "01",
+    "camera_id": "F"
+  },
+  {
+    "word_id": 2802,
+    "actor_id": "01",
+    "camera_id": "D"
+  },
+  {
+    "word_id": 2810,
+    "actor_id": "04",
+    "camera_id": "U"
+  },
+  {
+    "word_id": 2858,
+    "actor_id": "04",
+    "camera_id": "F"
+  },
+  {
+    "word_id": 2916,
+    "actor_id": "05",
+    "camera_id": "U"
+  },
+  {
+    "word_id": 2938,
+    "actor_id": "04",
+    "camera_id": "L"
+  },
+  {
+    "word_id": 2967,
+    "actor_id": "04",
+    "camera_id": "R"
+  }
+]
