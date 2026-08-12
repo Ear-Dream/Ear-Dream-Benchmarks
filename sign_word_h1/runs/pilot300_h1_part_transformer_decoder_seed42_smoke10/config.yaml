@@ -1,0 +1,22 @@
+experiment: {name: pilot300_h1_part_transformer_decoder_seed42, seed: 42}
+paths: {workspace_data: data, runs: runs}
+data:
+  feature_version: spoter2_mp_xy_v1
+  feature_dim: 208
+  max_sequence_length: 256
+  train_actors: ['01','02','03','04','05','06']
+  val_actors: ['07','08']
+  test_actors: ['09']
+  num_workers: 4
+  pin_memory: true
+model:
+  variant: h1
+  head: decoder
+  d_model: 256
+  nhead: 8
+  encoder_layers: 6
+  decoder_layers: 6
+  dim_feedforward: 1024
+  conv_kernel_size: 15
+  dropout: 0.1
+training: {epochs: 100, batch_size: 32, learning_rate: 0.0001, weight_decay: 0.01, warmup_epochs: 5, gradient_clip_norm: 1.0, amp: fp16, early_stopping_patience: 15, resume: true}

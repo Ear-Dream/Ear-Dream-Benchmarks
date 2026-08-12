@@ -1,0 +1,18 @@
+{
+  "train_actor_ids": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06"
+  ],
+  "val_actor_ids": [
+    "07",
+    "08"
+  ],
+  "test_actor_ids": [
+    "09"
+  ],
+  "policy": "actor-independent; all existing cameras for word+actor stay together"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "word_id": 1128,
+    "actor_id": "04",
+    "camera_id": "L"
+  },
+  {
+    "word_id": 1130,
+    "actor_id": "04",
+    "camera_id": "D"
+  },
+  {
+    "word_id": 1140,
+    "actor_id": "04",
+    "camera_id": "R"
+  },
+  {
+    "word_id": 1193,
+    "actor_id": "03",
+    "camera_id": "L"
+  },
+  {
+    "word_id": 2196,
+    "actor_id": "06",
+    "camera_id": "D"
+  },
+  {
+    "word_id": 2635,
+    "actor_id": "05",
+    "camera_id": "F"
+  }
+]
