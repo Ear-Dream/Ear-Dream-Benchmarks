@@ -1,0 +1,2417 @@
+{
+  "one_hand_classes": 106,
+  "two_hand_classes": 194,
+  "classes": [
+    {
+      "label_index": 0,
+      "word_id": 1157,
+      "word": "나",
+      "hand_type": "one",
+      "onehand_label": 0,
+      "source_selection_index": 1
+    },
+    {
+      "label_index": 1,
+      "word_id": 1351,
+      "word": "너",
+      "hand_type": "one",
+      "onehand_label": 1,
+      "source_selection_index": 2
+    },
+    {
+      "label_index": 2,
+      "word_id": 1353,
+      "word": "당신",
+      "hand_type": "one",
+      "onehand_label": 2,
+      "source_selection_index": 3
+    },
+    {
+      "label_index": 3,
+      "word_id": 1352,
+      "word": "저",
+      "hand_type": "one",
+      "onehand_label": 3,
+      "source_selection_index": 4
+    },
+    {
+      "label_index": 4,
+      "word_id": 1237,
+      "word": "이것",
+      "hand_type": "one",
+      "onehand_label": 4,
+      "source_selection_index": 5
+    },
+    {
+      "label_index": 5,
+      "word_id": 1242,
+      "word": "사람",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 6
+    },
+    {
+      "label_index": 6,
+      "word_id": 3,
+      "word": "수어",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 7
+    },
+    {
+      "label_index": 7,
+      "word_id": 331,
+      "word": "어떻게",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 8
+    },
+    {
+      "label_index": 8,
+      "word_id": 436,
+      "word": "얼마",
+      "hand_type": "one",
+      "onehand_label": 5,
+      "source_selection_index": 9
+    },
+    {
+      "label_index": 9,
+      "word_id": 943,
+      "word": "가다",
+      "hand_type": "one",
+      "onehand_label": 6,
+      "source_selection_index": 10
+    },
+    {
+      "label_index": 10,
+      "word_id": 1149,
+      "word": "오다",
+      "hand_type": "one",
+      "onehand_label": 7,
+      "source_selection_index": 11
+    },
+    {
+      "label_index": 11,
+      "word_id": 1148,
+      "word": "서다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 12
+    },
+    {
+      "label_index": 12,
+      "word_id": 1295,
+      "word": "걷다",
+      "hand_type": "one",
+      "onehand_label": 8,
+      "source_selection_index": 13
+    },
+    {
+      "label_index": 13,
+      "word_id": 1274,
+      "word": "달리다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 14
+    },
+    {
+      "label_index": 14,
+      "word_id": 1273,
+      "word": "일어나다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 15
+    },
+    {
+      "label_index": 15,
+      "word_id": 1138,
+      "word": "눕다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 16
+    },
+    {
+      "label_index": 16,
+      "word_id": 1377,
+      "word": "자다",
+      "hand_type": "one",
+      "onehand_label": 9,
+      "source_selection_index": 17
+    },
+    {
+      "label_index": 17,
+      "word_id": 1143,
+      "word": "듣다",
+      "hand_type": "one",
+      "onehand_label": 10,
+      "source_selection_index": 18
+    },
+    {
+      "label_index": 18,
+      "word_id": 1185,
+      "word": "알다",
+      "hand_type": "one",
+      "onehand_label": 11,
+      "source_selection_index": 19
+    },
+    {
+      "label_index": 19,
+      "word_id": 1096,
+      "word": "모르다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 20
+    },
+    {
+      "label_index": 20,
+      "word_id": 1144,
+      "word": "생각",
+      "hand_type": "one",
+      "onehand_label": 12,
+      "source_selection_index": 21
+    },
+    {
+      "label_index": 21,
+      "word_id": 1207,
+      "word": "이해",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 22
+    },
+    {
+      "label_index": 22,
+      "word_id": 1303,
+      "word": "기억",
+      "hand_type": "one",
+      "onehand_label": 13,
+      "source_selection_index": 23
+    },
+    {
+      "label_index": 23,
+      "word_id": 1106,
+      "word": "잊다",
+      "hand_type": "one",
+      "onehand_label": 14,
+      "source_selection_index": 24
+    },
+    {
+      "label_index": 24,
+      "word_id": 2205,
+      "word": "잊어버리다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 25
+    },
+    {
+      "label_index": 25,
+      "word_id": 530,
+      "word": "묻다",
+      "hand_type": "one",
+      "onehand_label": 15,
+      "source_selection_index": 26
+    },
+    {
+      "label_index": 26,
+      "word_id": 2198,
+      "word": "알려주다",
+      "hand_type": "one",
+      "onehand_label": 16,
+      "source_selection_index": 27
+    },
+    {
+      "label_index": 27,
+      "word_id": 1589,
+      "word": "부탁",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 28
+    },
+    {
+      "label_index": 28,
+      "word_id": 1597,
+      "word": "상담",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 29
+    },
+    {
+      "label_index": 29,
+      "word_id": 566,
+      "word": "소개",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 30
+    },
+    {
+      "label_index": 30,
+      "word_id": 858,
+      "word": "제안",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 31
+    },
+    {
+      "label_index": 31,
+      "word_id": 2053,
+      "word": "동의",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 32
+    },
+    {
+      "label_index": 32,
+      "word_id": 2226,
+      "word": "거절",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 33
+    },
+    {
+      "label_index": 33,
+      "word_id": 2050,
+      "word": "계획",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 34
+    },
+    {
+      "label_index": 34,
+      "word_id": 1190,
+      "word": "방법",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 35
+    },
+    {
+      "label_index": 35,
+      "word_id": 504,
+      "word": "의미",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 36
+    },
+    {
+      "label_index": 36,
+      "word_id": 1193,
+      "word": "중요",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 37
+    },
+    {
+      "label_index": 37,
+      "word_id": 1282,
+      "word": "가능",
+      "hand_type": "one",
+      "onehand_label": 17,
+      "source_selection_index": 38
+    },
+    {
+      "label_index": 38,
+      "word_id": 1097,
+      "word": "불가능",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 39
+    },
+    {
+      "label_index": 39,
+      "word_id": 1384,
+      "word": "없다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 40
+    },
+    {
+      "label_index": 40,
+      "word_id": 1107,
+      "word": "충분",
+      "hand_type": "one",
+      "onehand_label": 18,
+      "source_selection_index": 41
+    },
+    {
+      "label_index": 41,
+      "word_id": 1304,
+      "word": "부족",
+      "hand_type": "one",
+      "onehand_label": 19,
+      "source_selection_index": 42
+    },
+    {
+      "label_index": 42,
+      "word_id": 1174,
+      "word": "맞다",
+      "hand_type": "one",
+      "onehand_label": 20,
+      "source_selection_index": 43
+    },
+    {
+      "label_index": 43,
+      "word_id": 1359,
+      "word": "틀리다",
+      "hand_type": "one",
+      "onehand_label": 21,
+      "source_selection_index": 44
+    },
+    {
+      "label_index": 44,
+      "word_id": 738,
+      "word": "좋다",
+      "hand_type": "one",
+      "onehand_label": 22,
+      "source_selection_index": 45
+    },
+    {
+      "label_index": 45,
+      "word_id": 1278,
+      "word": "싫다",
+      "hand_type": "one",
+      "onehand_label": 23,
+      "source_selection_index": 46
+    },
+    {
+      "label_index": 46,
+      "word_id": 1381,
+      "word": "괜찮다",
+      "hand_type": "one",
+      "onehand_label": 24,
+      "source_selection_index": 47
+    },
+    {
+      "label_index": 47,
+      "word_id": 1133,
+      "word": "잘하다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 48
+    },
+    {
+      "label_index": 48,
+      "word_id": 1269,
+      "word": "못하다",
+      "hand_type": "one",
+      "onehand_label": 25,
+      "source_selection_index": 49
+    },
+    {
+      "label_index": 49,
+      "word_id": 1232,
+      "word": "쉽다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 50
+    },
+    {
+      "label_index": 50,
+      "word_id": 1211,
+      "word": "어렵다",
+      "hand_type": "one",
+      "onehand_label": 26,
+      "source_selection_index": 51
+    },
+    {
+      "label_index": 51,
+      "word_id": 1135,
+      "word": "빠르다",
+      "hand_type": "one",
+      "onehand_label": 27,
+      "source_selection_index": 52
+    },
+    {
+      "label_index": 52,
+      "word_id": 1337,
+      "word": "느리다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 53
+    },
+    {
+      "label_index": 53,
+      "word_id": 1130,
+      "word": "원하다",
+      "hand_type": "one",
+      "onehand_label": 28,
+      "source_selection_index": 54
+    },
+    {
+      "label_index": 54,
+      "word_id": 1139,
+      "word": "믿다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 55
+    },
+    {
+      "label_index": 55,
+      "word_id": 1577,
+      "word": "시작",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 56
+    },
+    {
+      "label_index": 56,
+      "word_id": 1584,
+      "word": "관계",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 57
+    },
+    {
+      "label_index": 57,
+      "word_id": 1204,
+      "word": "친구",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 58
+    },
+    {
+      "label_index": 58,
+      "word_id": 1492,
+      "word": "가족",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 59
+    },
+    {
+      "label_index": 59,
+      "word_id": 1104,
+      "word": "남자",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 60
+    },
+    {
+      "label_index": 60,
+      "word_id": 1275,
+      "word": "여자",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 61
+    },
+    {
+      "label_index": 61,
+      "word_id": 1189,
+      "word": "아기",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 62
+    },
+    {
+      "label_index": 62,
+      "word_id": 1528,
+      "word": "엄마",
+      "hand_type": "one",
+      "onehand_label": 29,
+      "source_selection_index": 63
+    },
+    {
+      "label_index": 63,
+      "word_id": 1531,
+      "word": "남편",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 64
+    },
+    {
+      "label_index": 64,
+      "word_id": 1524,
+      "word": "아내",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 65
+    },
+    {
+      "label_index": 65,
+      "word_id": 1574,
+      "word": "형",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 66
+    },
+    {
+      "label_index": 66,
+      "word_id": 1516,
+      "word": "누나",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 67
+    },
+    {
+      "label_index": 67,
+      "word_id": 1556,
+      "word": "오빠",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 68
+    },
+    {
+      "label_index": 68,
+      "word_id": 1518,
+      "word": "여동생",
+      "hand_type": "one",
+      "onehand_label": 30,
+      "source_selection_index": 69
+    },
+    {
+      "label_index": 69,
+      "word_id": 1522,
+      "word": "딸",
+      "hand_type": "one",
+      "onehand_label": 31,
+      "source_selection_index": 70
+    },
+    {
+      "label_index": 70,
+      "word_id": 1565,
+      "word": "할머니",
+      "hand_type": "one",
+      "onehand_label": 32,
+      "source_selection_index": 71
+    },
+    {
+      "label_index": 71,
+      "word_id": 1566,
+      "word": "할아버지",
+      "hand_type": "one",
+      "onehand_label": 33,
+      "source_selection_index": 72
+    },
+    {
+      "label_index": 72,
+      "word_id": 1568,
+      "word": "조카",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 73
+    },
+    {
+      "label_index": 73,
+      "word_id": 608,
+      "word": "친척",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 74
+    },
+    {
+      "label_index": 74,
+      "word_id": 1535,
+      "word": "부부",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 75
+    },
+    {
+      "label_index": 75,
+      "word_id": 2143,
+      "word": "신부",
+      "hand_type": "one",
+      "onehand_label": 34,
+      "source_selection_index": 76
+    },
+    {
+      "label_index": 76,
+      "word_id": 2144,
+      "word": "신혼",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 77
+    },
+    {
+      "label_index": 77,
+      "word_id": 239,
+      "word": "학부모",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 78
+    },
+    {
+      "label_index": 78,
+      "word_id": 140,
+      "word": "교수",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 79
+    },
+    {
+      "label_index": 79,
+      "word_id": 141,
+      "word": "교장",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 80
+    },
+    {
+      "label_index": 80,
+      "word_id": 187,
+      "word": "간호사",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 81
+    },
+    {
+      "label_index": 81,
+      "word_id": 163,
+      "word": "의사",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 82
+    },
+    {
+      "label_index": 82,
+      "word_id": 174,
+      "word": "통역사",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 83
+    },
+    {
+      "label_index": 83,
+      "word_id": 159,
+      "word": "요리사",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 84
+    },
+    {
+      "label_index": 84,
+      "word_id": 147,
+      "word": "디자이너",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 85
+    },
+    {
+      "label_index": 85,
+      "word_id": 157,
+      "word": "예술가",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 86
+    },
+    {
+      "label_index": 86,
+      "word_id": 2184,
+      "word": "직원",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 87
+    },
+    {
+      "label_index": 87,
+      "word_id": 2185,
+      "word": "사장",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 88
+    },
+    {
+      "label_index": 88,
+      "word_id": 2190,
+      "word": "운전자",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 89
+    },
+    {
+      "label_index": 89,
+      "word_id": 212,
+      "word": "고등학생",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 90
+    },
+    {
+      "label_index": 90,
+      "word_id": 230,
+      "word": "여학생",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 91
+    },
+    {
+      "label_index": 91,
+      "word_id": 2023,
+      "word": "청년",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 92
+    },
+    {
+      "label_index": 92,
+      "word_id": 2024,
+      "word": "청소년",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 93
+    },
+    {
+      "label_index": 93,
+      "word_id": 2032,
+      "word": "노인",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 94
+    },
+    {
+      "label_index": 94,
+      "word_id": 14,
+      "word": "외국인",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 95
+    },
+    {
+      "label_index": 95,
+      "word_id": 2013,
+      "word": "한국인",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 96
+    },
+    {
+      "label_index": 96,
+      "word_id": 461,
+      "word": "농인",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 97
+    },
+    {
+      "label_index": 97,
+      "word_id": 1530,
+      "word": "바쁘다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 98
+    },
+    {
+      "label_index": 98,
+      "word_id": 1222,
+      "word": "힘들다",
+      "hand_type": "one",
+      "onehand_label": 35,
+      "source_selection_index": 99
+    },
+    {
+      "label_index": 99,
+      "word_id": 9,
+      "word": "슬프다",
+      "hand_type": "one",
+      "onehand_label": 36,
+      "source_selection_index": 100
+    },
+    {
+      "label_index": 100,
+      "word_id": 11,
+      "word": "안타깝다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 101
+    },
+    {
+      "label_index": 101,
+      "word_id": 26,
+      "word": "급하다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 102
+    },
+    {
+      "label_index": 102,
+      "word_id": 1294,
+      "word": "걱정",
+      "hand_type": "one",
+      "onehand_label": 37,
+      "source_selection_index": 103
+    },
+    {
+      "label_index": 103,
+      "word_id": 1123,
+      "word": "불안",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 104
+    },
+    {
+      "label_index": 104,
+      "word_id": 1128,
+      "word": "당황",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 105
+    },
+    {
+      "label_index": 105,
+      "word_id": 1134,
+      "word": "무섭다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 106
+    },
+    {
+      "label_index": 106,
+      "word_id": 1124,
+      "word": "밉다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 107
+    },
+    {
+      "label_index": 107,
+      "word_id": 1140,
+      "word": "즐겁다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 108
+    },
+    {
+      "label_index": 108,
+      "word_id": 1169,
+      "word": "행복",
+      "hand_type": "one",
+      "onehand_label": 38,
+      "source_selection_index": 109
+    },
+    {
+      "label_index": 109,
+      "word_id": 1195,
+      "word": "실망",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 110
+    },
+    {
+      "label_index": 110,
+      "word_id": 1217,
+      "word": "희망",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 111
+    },
+    {
+      "label_index": 111,
+      "word_id": 1201,
+      "word": "죄송",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 112
+    },
+    {
+      "label_index": 112,
+      "word_id": 1290,
+      "word": "감사",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 113
+    },
+    {
+      "label_index": 113,
+      "word_id": 1215,
+      "word": "창피",
+      "hand_type": "one",
+      "onehand_label": 39,
+      "source_selection_index": 114
+    },
+    {
+      "label_index": 114,
+      "word_id": 1220,
+      "word": "부럽다",
+      "hand_type": "one",
+      "onehand_label": 40,
+      "source_selection_index": 115
+    },
+    {
+      "label_index": 115,
+      "word_id": 1289,
+      "word": "감동",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 116
+    },
+    {
+      "label_index": 116,
+      "word_id": 1224,
+      "word": "웃다",
+      "hand_type": "one",
+      "onehand_label": 41,
+      "source_selection_index": 117
+    },
+    {
+      "label_index": 117,
+      "word_id": 1399,
+      "word": "미소",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 118
+    },
+    {
+      "label_index": 118,
+      "word_id": 1205,
+      "word": "우습다",
+      "hand_type": "one",
+      "onehand_label": 42,
+      "source_selection_index": 119
+    },
+    {
+      "label_index": 119,
+      "word_id": 1731,
+      "word": "재미없다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 120
+    },
+    {
+      "label_index": 120,
+      "word_id": 1212,
+      "word": "지겹다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 121
+    },
+    {
+      "label_index": 121,
+      "word_id": 1346,
+      "word": "귀찮다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 122
+    },
+    {
+      "label_index": 122,
+      "word_id": 684,
+      "word": "괴롭다",
+      "hand_type": "one",
+      "onehand_label": 43,
+      "source_selection_index": 123
+    },
+    {
+      "label_index": 123,
+      "word_id": 968,
+      "word": "난감하다",
+      "hand_type": "one",
+      "onehand_label": 44,
+      "source_selection_index": 124
+    },
+    {
+      "label_index": 124,
+      "word_id": 1236,
+      "word": "화나다",
+      "hand_type": "one",
+      "onehand_label": 45,
+      "source_selection_index": 125
+    },
+    {
+      "label_index": 125,
+      "word_id": 1255,
+      "word": "짜증",
+      "hand_type": "one",
+      "onehand_label": 46,
+      "source_selection_index": 126
+    },
+    {
+      "label_index": 126,
+      "word_id": 1251,
+      "word": "우울",
+      "hand_type": "one",
+      "onehand_label": 47,
+      "source_selection_index": 127
+    },
+    {
+      "label_index": 127,
+      "word_id": 1252,
+      "word": "후회",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 128
+    },
+    {
+      "label_index": 128,
+      "word_id": 1158,
+      "word": "피곤하다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 129
+    },
+    {
+      "label_index": 129,
+      "word_id": 953,
+      "word": "배고프다",
+      "hand_type": "one",
+      "onehand_label": 48,
+      "source_selection_index": 130
+    },
+    {
+      "label_index": 130,
+      "word_id": 1200,
+      "word": "배부르다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 131
+    },
+    {
+      "label_index": 131,
+      "word_id": 1244,
+      "word": "졸리다",
+      "hand_type": "one",
+      "onehand_label": 49,
+      "source_selection_index": 132
+    },
+    {
+      "label_index": 132,
+      "word_id": 1248,
+      "word": "춥다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 133
+    },
+    {
+      "label_index": 133,
+      "word_id": 1382,
+      "word": "덥다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 134
+    },
+    {
+      "label_index": 134,
+      "word_id": 1383,
+      "word": "따뜻하다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 135
+    },
+    {
+      "label_index": 135,
+      "word_id": 1301,
+      "word": "시원하다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 136
+    },
+    {
+      "label_index": 136,
+      "word_id": 2542,
+      "word": "뜨겁다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 137
+    },
+    {
+      "label_index": 137,
+      "word_id": 1152,
+      "word": "아프다",
+      "hand_type": "one",
+      "onehand_label": 50,
+      "source_selection_index": 138
+    },
+    {
+      "label_index": 138,
+      "word_id": 1145,
+      "word": "예쁘다",
+      "hand_type": "one",
+      "onehand_label": 51,
+      "source_selection_index": 139
+    },
+    {
+      "label_index": 139,
+      "word_id": 1314,
+      "word": "귀엽다",
+      "hand_type": "one",
+      "onehand_label": 52,
+      "source_selection_index": 140
+    },
+    {
+      "label_index": 140,
+      "word_id": 1156,
+      "word": "나쁘다",
+      "hand_type": "one",
+      "onehand_label": 53,
+      "source_selection_index": 141
+    },
+    {
+      "label_index": 141,
+      "word_id": 1177,
+      "word": "솔직",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 142
+    },
+    {
+      "label_index": 142,
+      "word_id": 1188,
+      "word": "차분",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 143
+    },
+    {
+      "label_index": 143,
+      "word_id": 22,
+      "word": "침착",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 144
+    },
+    {
+      "label_index": 144,
+      "word_id": 23,
+      "word": "성실",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 145
+    },
+    {
+      "label_index": 145,
+      "word_id": 1154,
+      "word": "깨끗하다",
+      "hand_type": "one",
+      "onehand_label": 54,
+      "source_selection_index": 146
+    },
+    {
+      "label_index": 146,
+      "word_id": 1186,
+      "word": "조심",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 147
+    },
+    {
+      "label_index": 147,
+      "word_id": 1592,
+      "word": "회사",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 148
+    },
+    {
+      "label_index": 148,
+      "word_id": 1496,
+      "word": "병원",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 149
+    },
+    {
+      "label_index": 149,
+      "word_id": 41,
+      "word": "보건소",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 150
+    },
+    {
+      "label_index": 150,
+      "word_id": 104,
+      "word": "식당",
+      "hand_type": "one",
+      "onehand_label": 55,
+      "source_selection_index": 151
+    },
+    {
+      "label_index": 151,
+      "word_id": 2183,
+      "word": "사무실",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 152
+    },
+    {
+      "label_index": 152,
+      "word_id": 215,
+      "word": "교실",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 153
+    },
+    {
+      "label_index": 153,
+      "word_id": 232,
+      "word": "연구실",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 154
+    },
+    {
+      "label_index": 154,
+      "word_id": 226,
+      "word": "서점",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 155
+    },
+    {
+      "label_index": 155,
+      "word_id": 168,
+      "word": "주차장",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 156
+    },
+    {
+      "label_index": 156,
+      "word_id": 206,
+      "word": "주유소",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 157
+    },
+    {
+      "label_index": 157,
+      "word_id": 2177,
+      "word": "공항",
+      "hand_type": "one",
+      "onehand_label": 56,
+      "source_selection_index": 158
+    },
+    {
+      "label_index": 158,
+      "word_id": 156,
+      "word": "기차역",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 159
+    },
+    {
+      "label_index": 159,
+      "word_id": 172,
+      "word": "터미널",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 160
+    },
+    {
+      "label_index": 160,
+      "word_id": 1456,
+      "word": "시청",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 161
+    },
+    {
+      "label_index": 161,
+      "word_id": 489,
+      "word": "주민센터",
+      "hand_type": "one",
+      "onehand_label": 57,
+      "source_selection_index": 162
+    },
+    {
+      "label_index": 162,
+      "word_id": 136,
+      "word": "경찰서",
+      "hand_type": "one",
+      "onehand_label": 58,
+      "source_selection_index": 163
+    },
+    {
+      "label_index": 163,
+      "word_id": 655,
+      "word": "수영장",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 164
+    },
+    {
+      "label_index": 164,
+      "word_id": 2153,
+      "word": "운동장",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 165
+    },
+    {
+      "label_index": 165,
+      "word_id": 634,
+      "word": "서울역",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 166
+    },
+    {
+      "label_index": 166,
+      "word_id": 170,
+      "word": "출근",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 167
+    },
+    {
+      "label_index": 167,
+      "word_id": 173,
+      "word": "근무",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 168
+    },
+    {
+      "label_index": 168,
+      "word_id": 175,
+      "word": "퇴사",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 169
+    },
+    {
+      "label_index": 169,
+      "word_id": 193,
+      "word": "구직",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 170
+    },
+    {
+      "label_index": 170,
+      "word_id": 2196,
+      "word": "취업",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 171
+    },
+    {
+      "label_index": 171,
+      "word_id": 166,
+      "word": "재택근무",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 172
+    },
+    {
+      "label_index": 172,
+      "word_id": 2179,
+      "word": "월급",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 173
+    },
+    {
+      "label_index": 173,
+      "word_id": 164,
+      "word": "이력서",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 174
+    },
+    {
+      "label_index": 174,
+      "word_id": 1581,
+      "word": "시험",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 175
+    },
+    {
+      "label_index": 175,
+      "word_id": 228,
+      "word": "실습",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 176
+    },
+    {
+      "label_index": 176,
+      "word_id": 412,
+      "word": "학습",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 177
+    },
+    {
+      "label_index": 177,
+      "word_id": 223,
+      "word": "복습",
+      "hand_type": "one",
+      "onehand_label": 59,
+      "source_selection_index": 178
+    },
+    {
+      "label_index": 178,
+      "word_id": 233,
+      "word": "예습",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 179
+    },
+    {
+      "label_index": 179,
+      "word_id": 878,
+      "word": "출석",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 180
+    },
+    {
+      "label_index": 180,
+      "word_id": 34,
+      "word": "독서",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 181
+    },
+    {
+      "label_index": 181,
+      "word_id": 238,
+      "word": "연구",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 182
+    },
+    {
+      "label_index": 182,
+      "word_id": 241,
+      "word": "훈련",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 183
+    },
+    {
+      "label_index": 183,
+      "word_id": 169,
+      "word": "채팅",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 184
+    },
+    {
+      "label_index": 184,
+      "word_id": 808,
+      "word": "전화번호",
+      "hand_type": "one",
+      "onehand_label": 60,
+      "source_selection_index": 185
+    },
+    {
+      "label_index": 185,
+      "word_id": 1540,
+      "word": "생활",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 186
+    },
+    {
+      "label_index": 186,
+      "word_id": 155,
+      "word": "여행사",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 187
+    },
+    {
+      "label_index": 187,
+      "word_id": 2057,
+      "word": "관광",
+      "hand_type": "one",
+      "onehand_label": 61,
+      "source_selection_index": 188
+    },
+    {
+      "label_index": 188,
+      "word_id": 1503,
+      "word": "구경",
+      "hand_type": "one",
+      "onehand_label": 62,
+      "source_selection_index": 189
+    },
+    {
+      "label_index": 189,
+      "word_id": 1558,
+      "word": "이사",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 190
+    },
+    {
+      "label_index": 190,
+      "word_id": 1557,
+      "word": "출장",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 191
+    },
+    {
+      "label_index": 191,
+      "word_id": 1501,
+      "word": "운전면허",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 192
+    },
+    {
+      "label_index": 192,
+      "word_id": 201,
+      "word": "신용카드",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 193
+    },
+    {
+      "label_index": 193,
+      "word_id": 130,
+      "word": "월세",
+      "hand_type": "one",
+      "onehand_label": 63,
+      "source_selection_index": 194
+    },
+    {
+      "label_index": 194,
+      "word_id": 131,
+      "word": "전세",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 195
+    },
+    {
+      "label_index": 195,
+      "word_id": 2174,
+      "word": "용돈",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 196
+    },
+    {
+      "label_index": 196,
+      "word_id": 200,
+      "word": "수입",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 197
+    },
+    {
+      "label_index": 197,
+      "word_id": 5,
+      "word": "눈",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 198
+    },
+    {
+      "label_index": 198,
+      "word_id": 1370,
+      "word": "귀",
+      "hand_type": "one",
+      "onehand_label": 64,
+      "source_selection_index": 199
+    },
+    {
+      "label_index": 199,
+      "word_id": 1235,
+      "word": "코",
+      "hand_type": "one",
+      "onehand_label": 65,
+      "source_selection_index": 200
+    },
+    {
+      "label_index": 200,
+      "word_id": 1279,
+      "word": "입",
+      "hand_type": "one",
+      "onehand_label": 66,
+      "source_selection_index": 201
+    },
+    {
+      "label_index": 201,
+      "word_id": 1181,
+      "word": "혀",
+      "hand_type": "one",
+      "onehand_label": 67,
+      "source_selection_index": 202
+    },
+    {
+      "label_index": 202,
+      "word_id": 1374,
+      "word": "이마",
+      "hand_type": "one",
+      "onehand_label": 68,
+      "source_selection_index": 203
+    },
+    {
+      "label_index": 203,
+      "word_id": 1375,
+      "word": "볼",
+      "hand_type": "one",
+      "onehand_label": 69,
+      "source_selection_index": 204
+    },
+    {
+      "label_index": 204,
+      "word_id": 1262,
+      "word": "턱",
+      "hand_type": "one",
+      "onehand_label": 70,
+      "source_selection_index": 205
+    },
+    {
+      "label_index": 205,
+      "word_id": 1376,
+      "word": "목",
+      "hand_type": "one",
+      "onehand_label": 71,
+      "source_selection_index": 206
+    },
+    {
+      "label_index": 206,
+      "word_id": 1226,
+      "word": "손",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 207
+    },
+    {
+      "label_index": 207,
+      "word_id": 1147,
+      "word": "팔",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 208
+    },
+    {
+      "label_index": 208,
+      "word_id": 1599,
+      "word": "다리",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 209
+    },
+    {
+      "label_index": 209,
+      "word_id": 1253,
+      "word": "몸",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 210
+    },
+    {
+      "label_index": 210,
+      "word_id": 1210,
+      "word": "얼굴",
+      "hand_type": "one",
+      "onehand_label": 72,
+      "source_selection_index": 211
+    },
+    {
+      "label_index": 211,
+      "word_id": 1249,
+      "word": "머리",
+      "hand_type": "one",
+      "onehand_label": 73,
+      "source_selection_index": 212
+    },
+    {
+      "label_index": 212,
+      "word_id": 1241,
+      "word": "머리카락",
+      "hand_type": "one",
+      "onehand_label": 74,
+      "source_selection_index": 213
+    },
+    {
+      "label_index": 213,
+      "word_id": 1371,
+      "word": "눈썹",
+      "hand_type": "one",
+      "onehand_label": 75,
+      "source_selection_index": 214
+    },
+    {
+      "label_index": 214,
+      "word_id": 1373,
+      "word": "치아",
+      "hand_type": "one",
+      "onehand_label": 76,
+      "source_selection_index": 215
+    },
+    {
+      "label_index": 215,
+      "word_id": 288,
+      "word": "체온",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 216
+    },
+    {
+      "label_index": 216,
+      "word_id": 2039,
+      "word": "몸무게",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 217
+    },
+    {
+      "label_index": 217,
+      "word_id": 1115,
+      "word": "건강",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 218
+    },
+    {
+      "label_index": 218,
+      "word_id": 37,
+      "word": "감기",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 219
+    },
+    {
+      "label_index": 219,
+      "word_id": 1533,
+      "word": "병",
+      "hand_type": "one",
+      "onehand_label": 77,
+      "source_selection_index": 220
+    },
+    {
+      "label_index": 220,
+      "word_id": 1576,
+      "word": "환자",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 221
+    },
+    {
+      "label_index": 221,
+      "word_id": 29,
+      "word": "검사",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 222
+    },
+    {
+      "label_index": 222,
+      "word_id": 64,
+      "word": "치료",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 223
+    },
+    {
+      "label_index": 223,
+      "word_id": 57,
+      "word": "회복",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 224
+    },
+    {
+      "label_index": 224,
+      "word_id": 60,
+      "word": "입원",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 225
+    },
+    {
+      "label_index": 225,
+      "word_id": 67,
+      "word": "퇴원",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 226
+    },
+    {
+      "label_index": 226,
+      "word_id": 689,
+      "word": "통증",
+      "hand_type": "one",
+      "onehand_label": 78,
+      "source_selection_index": 227
+    },
+    {
+      "label_index": 227,
+      "word_id": 1519,
+      "word": "상처",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 228
+    },
+    {
+      "label_index": 228,
+      "word_id": 71,
+      "word": "화상",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 229
+    },
+    {
+      "label_index": 229,
+      "word_id": 387,
+      "word": "골절",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 230
+    },
+    {
+      "label_index": 230,
+      "word_id": 46,
+      "word": "설사",
+      "hand_type": "one",
+      "onehand_label": 79,
+      "source_selection_index": 231
+    },
+    {
+      "label_index": 231,
+      "word_id": 39,
+      "word": "변비",
+      "hand_type": "one",
+      "onehand_label": 80,
+      "source_selection_index": 232
+    },
+    {
+      "label_index": 232,
+      "word_id": 970,
+      "word": "불면",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 233
+    },
+    {
+      "label_index": 233,
+      "word_id": 44,
+      "word": "붕대",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 234
+    },
+    {
+      "label_index": 234,
+      "word_id": 2131,
+      "word": "물약",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 235
+    },
+    {
+      "label_index": 235,
+      "word_id": 2108,
+      "word": "가루약",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 236
+    },
+    {
+      "label_index": 236,
+      "word_id": 132,
+      "word": "치약",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 237
+    },
+    {
+      "label_index": 237,
+      "word_id": 1534,
+      "word": "밥",
+      "hand_type": "one",
+      "onehand_label": 81,
+      "source_selection_index": 238
+    },
+    {
+      "label_index": 238,
+      "word_id": 115,
+      "word": "커피",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 239
+    },
+    {
+      "label_index": 239,
+      "word_id": 815,
+      "word": "우유",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 240
+    },
+    {
+      "label_index": 240,
+      "word_id": 7,
+      "word": "음료수",
+      "hand_type": "one",
+      "onehand_label": 82,
+      "source_selection_index": 241
+    },
+    {
+      "label_index": 241,
+      "word_id": 99,
+      "word": "사과",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 242
+    },
+    {
+      "label_index": 242,
+      "word_id": 88,
+      "word": "딸기",
+      "hand_type": "one",
+      "onehand_label": 83,
+      "source_selection_index": 243
+    },
+    {
+      "label_index": 243,
+      "word_id": 90,
+      "word": "라면",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 244
+    },
+    {
+      "label_index": 244,
+      "word_id": 87,
+      "word": "두부",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 245
+    },
+    {
+      "label_index": 245,
+      "word_id": 86,
+      "word": "돼지고기",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 246
+    },
+    {
+      "label_index": 246,
+      "word_id": 98,
+      "word": "비빔밥",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 247
+    },
+    {
+      "label_index": 247,
+      "word_id": 100,
+      "word": "사이다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 248
+    },
+    {
+      "label_index": 248,
+      "word_id": 116,
+      "word": "콜라",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 249
+    },
+    {
+      "label_index": 249,
+      "word_id": 109,
+      "word": "술",
+      "hand_type": "one",
+      "onehand_label": 84,
+      "source_selection_index": 250
+    },
+    {
+      "label_index": 250,
+      "word_id": 165,
+      "word": "자가용",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 251
+    },
+    {
+      "label_index": 251,
+      "word_id": 149,
+      "word": "구급차",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 252
+    },
+    {
+      "label_index": 252,
+      "word_id": 148,
+      "word": "마을버스",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 253
+    },
+    {
+      "label_index": 253,
+      "word_id": 1593,
+      "word": "기차",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 254
+    },
+    {
+      "label_index": 254,
+      "word_id": 154,
+      "word": "여객선",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 255
+    },
+    {
+      "label_index": 255,
+      "word_id": 846,
+      "word": "차도",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 256
+    },
+    {
+      "label_index": 256,
+      "word_id": 1342,
+      "word": "왼쪽",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 257
+    },
+    {
+      "label_index": 257,
+      "word_id": 1343,
+      "word": "오른쪽",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 258
+    },
+    {
+      "label_index": 258,
+      "word_id": 2100,
+      "word": "위",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 259
+    },
+    {
+      "label_index": 259,
+      "word_id": 2577,
+      "word": "아래",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 260
+    },
+    {
+      "label_index": 260,
+      "word_id": 1578,
+      "word": "밖",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 261
+    },
+    {
+      "label_index": 261,
+      "word_id": 948,
+      "word": "가깝다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 262
+    },
+    {
+      "label_index": 262,
+      "word_id": 949,
+      "word": "멀다",
+      "hand_type": "one",
+      "onehand_label": 85,
+      "source_selection_index": 263
+    },
+    {
+      "label_index": 263,
+      "word_id": 339,
+      "word": "아까",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 264
+    },
+    {
+      "label_index": 264,
+      "word_id": 320,
+      "word": "방금",
+      "hand_type": "one",
+      "onehand_label": 86,
+      "source_selection_index": 265
+    },
+    {
+      "label_index": 265,
+      "word_id": 334,
+      "word": "예전",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 266
+    },
+    {
+      "label_index": 266,
+      "word_id": 309,
+      "word": "어젯밤",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 267
+    },
+    {
+      "label_index": 267,
+      "word_id": 336,
+      "word": "월요일",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 268
+    },
+    {
+      "label_index": 268,
+      "word_id": 347,
+      "word": "화요일",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 269
+    },
+    {
+      "label_index": 269,
+      "word_id": 329,
+      "word": "수요일",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 270
+    },
+    {
+      "label_index": 270,
+      "word_id": 316,
+      "word": "금요일",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 271
+    },
+    {
+      "label_index": 271,
+      "word_id": 257,
+      "word": "일요일",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 272
+    },
+    {
+      "label_index": 272,
+      "word_id": 344,
+      "word": "평일",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 273
+    },
+    {
+      "label_index": 273,
+      "word_id": 312,
+      "word": "공휴일",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 274
+    },
+    {
+      "label_index": 274,
+      "word_id": 338,
+      "word": "자정",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 275
+    },
+    {
+      "label_index": 275,
+      "word_id": 814,
+      "word": "월초",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 276
+    },
+    {
+      "label_index": 276,
+      "word_id": 932,
+      "word": "매일매일",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 277
+    },
+    {
+      "label_index": 277,
+      "word_id": 2631,
+      "word": "영",
+      "hand_type": "one",
+      "onehand_label": 87,
+      "source_selection_index": 278
+    },
+    {
+      "label_index": 278,
+      "word_id": 2632,
+      "word": "일",
+      "hand_type": "one",
+      "onehand_label": 88,
+      "source_selection_index": 279
+    },
+    {
+      "label_index": 279,
+      "word_id": 2633,
+      "word": "이",
+      "hand_type": "one",
+      "onehand_label": 89,
+      "source_selection_index": 280
+    },
+    {
+      "label_index": 280,
+      "word_id": 2634,
+      "word": "삼",
+      "hand_type": "one",
+      "onehand_label": 90,
+      "source_selection_index": 281
+    },
+    {
+      "label_index": 281,
+      "word_id": 2635,
+      "word": "사",
+      "hand_type": "one",
+      "onehand_label": 91,
+      "source_selection_index": 282
+    },
+    {
+      "label_index": 282,
+      "word_id": 2636,
+      "word": "오",
+      "hand_type": "one",
+      "onehand_label": 92,
+      "source_selection_index": 283
+    },
+    {
+      "label_index": 283,
+      "word_id": 2637,
+      "word": "육",
+      "hand_type": "one",
+      "onehand_label": 93,
+      "source_selection_index": 284
+    },
+    {
+      "label_index": 284,
+      "word_id": 2638,
+      "word": "칠",
+      "hand_type": "one",
+      "onehand_label": 94,
+      "source_selection_index": 285
+    },
+    {
+      "label_index": 285,
+      "word_id": 2640,
+      "word": "구",
+      "hand_type": "one",
+      "onehand_label": 95,
+      "source_selection_index": 286
+    },
+    {
+      "label_index": 286,
+      "word_id": 2641,
+      "word": "십",
+      "hand_type": "one",
+      "onehand_label": 96,
+      "source_selection_index": 287
+    },
+    {
+      "label_index": 287,
+      "word_id": 1322,
+      "word": "빨강",
+      "hand_type": "one",
+      "onehand_label": 97,
+      "source_selection_index": 288
+    },
+    {
+      "label_index": 288,
+      "word_id": 1323,
+      "word": "노랑",
+      "hand_type": "one",
+      "onehand_label": 98,
+      "source_selection_index": 289
+    },
+    {
+      "label_index": 289,
+      "word_id": 1324,
+      "word": "초록",
+      "hand_type": "one",
+      "onehand_label": 99,
+      "source_selection_index": 290
+    },
+    {
+      "label_index": 290,
+      "word_id": 1325,
+      "word": "파랑",
+      "hand_type": "one",
+      "onehand_label": 100,
+      "source_selection_index": 291
+    },
+    {
+      "label_index": 291,
+      "word_id": 1321,
+      "word": "검정",
+      "hand_type": "one",
+      "onehand_label": 101,
+      "source_selection_index": 292
+    },
+    {
+      "label_index": 292,
+      "word_id": 1121,
+      "word": "흰",
+      "hand_type": "one",
+      "onehand_label": 102,
+      "source_selection_index": 293
+    },
+    {
+      "label_index": 293,
+      "word_id": 290,
+      "word": "하늘",
+      "hand_type": "one",
+      "onehand_label": 103,
+      "source_selection_index": 294
+    },
+    {
+      "label_index": 294,
+      "word_id": 2538,
+      "word": "달",
+      "hand_type": "one",
+      "onehand_label": 104,
+      "source_selection_index": 295
+    },
+    {
+      "label_index": 295,
+      "word_id": 2551,
+      "word": "별",
+      "hand_type": "one",
+      "onehand_label": 105,
+      "source_selection_index": 296
+    },
+    {
+      "label_index": 296,
+      "word_id": 2552,
+      "word": "비",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 297
+    },
+    {
+      "label_index": 297,
+      "word_id": 2549,
+      "word": "바람",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 298
+    },
+    {
+      "label_index": 298,
+      "word_id": 2546,
+      "word": "바다",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 299
+    },
+    {
+      "label_index": 299,
+      "word_id": 2563,
+      "word": "온도",
+      "hand_type": "two",
+      "onehand_label": -1,
+      "source_selection_index": 300
+    }
+  ],
+  "excluded": [
+    {
+      "word": "목요일",
+      "reason": "not in selected 300/3000 mapping"
+    },
+    {
+      "selection_index": 301,
+      "word": "팔",
+      "reason": "duplicate; selected word_id 1147 uses selection 208"
+    }
+  ]
+}

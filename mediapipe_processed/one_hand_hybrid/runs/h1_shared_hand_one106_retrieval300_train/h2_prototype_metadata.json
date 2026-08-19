@@ -1,0 +1,10 @@
+{
+  "split": "train_only",
+  "modes": [
+    "full",
+    "right",
+    "left",
+    "selected"
+  ],
+  "checkpoint": "C:\\Users\\PJ15\\Downloads\\수어 영상\\1.Training\\mediapipe_processed\\one_hand_hybrid_classification_retrieval\\runs\\h1_shared_hand_one106_retrieval300_train\\best.pt"
+}

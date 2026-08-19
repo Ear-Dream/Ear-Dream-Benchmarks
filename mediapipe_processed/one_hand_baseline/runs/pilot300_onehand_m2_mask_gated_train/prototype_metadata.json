@@ -1,0 +1,6 @@
+{
+  "schema": "onehand_class_prototypes_v1",
+  "checkpoint": "C:\\Users\\PJ15\\Downloads\\수어 영상\\1.Training\\mediapipe_processed\\AIHUB_ONE_HAND_SIGN_CANDIDATE_RAW_TO_MODEL_TRAINING\\runs\\pilot300_onehand_m2_mask_gated_train\\best.pt",
+  "embedding_dim": 128,
+  "split": "train_only"
+}

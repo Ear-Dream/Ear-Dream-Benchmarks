@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+*.pid
+
+# Local manifests contain machine-specific absolute H5 paths.
+data/**/samples.csv
+data/**/source_h5_inventory.json
+
+# Keep final metrics, prototypes and TorchScript; omit training checkpoints.
+runs/*overfit*/
+runs/**/best.pt
+runs/**/last.pt

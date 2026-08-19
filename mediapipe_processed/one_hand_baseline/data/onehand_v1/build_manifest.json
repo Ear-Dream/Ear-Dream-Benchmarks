@@ -1,0 +1,7 @@
+{
+  "source_manifest": "C:\\Users\\PJ15\\Downloads\\수어 영상\\1.Training\\mediapipe_processed\\sign_word_a1_pooling\\data\\samples.csv",
+  "samples": 13494,
+  "feature_version": "spoter2_mp_xy_v1",
+  "schema_version": "spoter2_mp_xy_v1_handmask_v1",
+  "manifest_sha256": "4b2b02eca0034efe3f5875b2a710f44fffc7e7d715d074120c57796d280ed2d1"
+}

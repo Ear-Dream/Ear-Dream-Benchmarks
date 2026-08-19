@@ -1,0 +1,44 @@
+experiment:
+  name: pilot300_onehand_m2_mask_gated
+  seed: 42
+paths:
+  source_manifest: ../sign_word_a1_pooling/data/samples.csv
+  workspace_data: data/onehand_v1
+  runs: runs
+  init_checkpoint: ../sign_word_a1_pooling/runs/pilot300_a1_h3_attention_pooling_seed42_train/best.pt
+features:
+  base_version: spoter2_mp_xy_v1
+  schema_version: spoter2_mp_xy_v1_handmask_v1
+  dim: 208
+  max_len: 256
+  slices: {pose: [0, 50], right_hand: [50, 92], left_hand: [92, 134], face: [134, 208]}
+views:
+  partial_side_probability: {right_only: 0.5, left_only: 0.5}
+  intermittent_dropout: {enabled: false, probability: 0.15, min_frames: 3, max_frames: 12}
+model:
+  d_model: 256
+  encoder_layers: 6
+  attention_heads: 8
+  ffn_dim: 1024
+  conv_kernel_size: 15
+  dropout: 0.1
+  candidate_embedding_dim: 128
+  num_classes: 300
+loss:
+  classification: 1.0
+  full_supcon: 0.1
+  partial_alignment: 1.0
+  full_preservation_kd: 0.0
+  temperature: 0.1
+training:
+  batch_size: 32
+  num_workers: 4
+  optimizer: adamw
+  learning_rate: 0.0001
+  weight_decay: 0.01
+  warmup_epochs: 5
+  max_epochs: 50
+  early_stopping_patience: 10
+  gradient_clip: 1.0
+evaluation:
+  candidate_k: [1, 3, 5, 10]
