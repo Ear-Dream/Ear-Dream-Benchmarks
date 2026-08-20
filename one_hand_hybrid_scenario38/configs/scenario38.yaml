@@ -1,0 +1,28 @@
+experiment:
+  name: scenario38_restricted_candidate
+  seed: 42
+paths:
+  scenario_csv: data/시나리오_필요단어_38개_UTF8_BOM.csv
+  source_manifest: ../one_hand_hybrid_양손한손수어단어_정리/data/organized300_v1/samples.csv
+  class_metadata: ../one_hand_hybrid_양손한손수어단어_정리/data/organized300_v1/class_metadata.json
+  partition_report: ../one_hand_hybrid_양손한손수어단어_정리/data/organized300_v1/word_partition_report.json
+  base_checkpoint: ../one_hand_hybrid_양손한손수어단어_정리/runs/organized300_h1b_shared_hand_one104_retrieval300_train/best.pt
+  base_prototypes: ../one_hand_hybrid_양손한손수어단어_정리/runs/organized300_h1b_shared_hand_one104_retrieval300_train/h2_prototypes.npz
+  workspace_data: data/scenario38_v1
+  runs: runs
+features:
+  dim: 208
+  max_len: 256
+model:
+  d_model: 256
+  encoder_layers: 6
+  attention_heads: 8
+  ffn_dim: 1024
+  conv_kernel_size: 15
+  dropout: 0.1
+  embedding_dim: 128
+  num_classes: 300
+  num_onehand: 104
+training:
+  batch_size: 32
+  num_workers: 4
